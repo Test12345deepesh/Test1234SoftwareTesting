@@ -1,6 +1,6 @@
 class Variable3{
 //Data member
-static int a;
+private static int a;
 static boolean b;
 static double d;
 
